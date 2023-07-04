@@ -110,12 +110,10 @@ html {
   width: 95%;
   border: 4px solid #ff5733;
   margin: 0;
- 
-    position: relative;
-    top: 40%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
+  position: relative;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%) }
 
 .section-item {
   position: relative;
