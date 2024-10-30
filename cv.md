@@ -22,15 +22,17 @@ I am sociable, responsible, I want to learn new things.
 ## Code
 
 DESCRIPTION:
-Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
-SOLUTION:
-function evenOrOdd(number) {
-  let num = number % 2
-  if (num === 0) {
-    return 'Even'
-  } else
-    return 'Odd'
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.  
+SOLUTION:  
+```
+function evenOrOdd(number) {  
+  let num = number % 2  
+  if (num === 0) {  
+    return 'Even'  
+  } else  
+    return 'Odd'  
   }
+```
 
 ## Experience
 
