@@ -36,6 +36,14 @@ function evenOrOdd(number) {
 
 ## Experience
 
+During stage-0, I learned how to make simple games. They're not finished yet, but I'm already proud of myself  
+
+[memory-game1](https://rolling-scopes-school.github.io/ek-ole-JSFEPRESCHOOL2024Q2/js30/games/memory-game1/)  
+
+[Tic-tac-toe1](https://rolling-scopes-school.github.io/ek-ole-JSFEPRESCHOOL2024Q2/js30/games/tic-tac-toe1/)  
+
+[Breakout](https://rolling-scopes-school.github.io/ek-ole-JSFEPRESCHOOL2024Q2/js30/games/breakout1/)  
+
 ## Education
 
 Peter the Great St. Petersburg Polytechnic University
